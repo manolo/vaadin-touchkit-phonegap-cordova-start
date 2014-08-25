@@ -12,7 +12,8 @@ In your browser, open the file:
 
 ### PhoneGap Build
 
-Create a new app with the following repository:
+Login into the [Adobe Phonegap Build](https://build.phonegap.com) site and
+create a new app with the following repository:
 
     https://github.com/manolo/vaadin-cordova-start.git
 
@@ -48,5 +49,7 @@ Update the phonegap-version in case:
 
     $ git commit -am "Version x.x.x"
 
-### Build your App in Phonegap Build
+### Build your App in Adobe Phonegap Build
+
+    Push on `Update code`, then `Rebuild all`
 
