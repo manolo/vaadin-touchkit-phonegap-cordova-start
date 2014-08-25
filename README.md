@@ -1,6 +1,6 @@
 # Vaadin Cordova (Phonegap) Application
 
-> A Demo application for Vaadin Framework + Touchkit + Cordova
+> A Demo application for [Vaadin Framework](http://vaadin.com) + [Touchkit](http://vaadin.com/touchkit) + [Cordova](http://cordova.apache.org/)
 
 ## Usage
 
