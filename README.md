@@ -10,6 +10,8 @@ In your browser, open the file:
 
     /www/index.html
 
+Or you can install a [prebuilt version](https://build.phonegap.com/apps/1061699/share) of the Parking Demo app.
+
 ### PhoneGap Build
 
 Login into the [Adobe Phonegap Build](https://build.phonegap.com) site and
