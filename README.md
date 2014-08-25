@@ -23,15 +23,19 @@ create a new app with the following repository:
 
 ### Updating the Application
 
-#### 1. Update the logo of your app
+#### 1. Update the logo of the app
 
     $ cp your_app_icon.png  www/icon.png
 
 #### 2. Update www/index.html
 
-Change the tittle for the page `<title>Parking</title>`
+Change the page title:
 
-Set the url of your app `window.vaadinAppUrl = 'http://hupa.app.fi/parking'` 
+        <title>Parking</title>
+
+Change the url of your app:
+
+        window.vaadinAppUrl = 'http://hupa.app.fi/parking'
 
 #### 3. Update www/config.xml
    
@@ -55,5 +59,5 @@ Update the phonegap-version in case:
 
 ### Build your App in Adobe Phonegap Build
 
-    Push on `Update code`, then `Rebuild all`
+    Push on `Update code` button, then on the `Rebuild all` one
 
