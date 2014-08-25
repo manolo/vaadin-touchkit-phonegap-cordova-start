@@ -1,6 +1,6 @@
 # Vaadin Cordova (Phonegap) Application
 
-> A Demo application for [Vaadin Framework](http://vaadin.com) + [Touchkit](http://vaadin.com/touchkit) + [Cordova](http://cordova.apache.org/)
+> A Parking Demo application for [Vaadin Framework](http://vaadin.com) + [Touchkit](http://vaadin.com/touchkit) + [Cordova](http://cordova.apache.org/)
 
 ## Usage
 
@@ -10,7 +10,7 @@ In your browser, open the file:
 
     /www/index.html
 
-Or you [install the Parking app](https://build.phonegap.com/apps/1061699/share) in your mobile.
+Or [install the Parking app](https://build.phonegap.com/apps/1061699/share) in your mobile.
 
 [![QR](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://build.phonegap.com/apps/1061699/install/)](https://build.phonegap.com/apps/1061699/share)
 
