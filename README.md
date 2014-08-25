@@ -10,7 +10,9 @@ In your browser, open the file:
 
     /www/index.html
 
-Or you can install a [prebuilt version](https://build.phonegap.com/apps/1061699/share) of the Parking Demo app.
+Or you [install the Parking app](https://build.phonegap.com/apps/1061699/share) in your mobile.
+
+![QR](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://build.phonegap.com/apps/1061699/install/)
 
 ### PhoneGap Build
 
