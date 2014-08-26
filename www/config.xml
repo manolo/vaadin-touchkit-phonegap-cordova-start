@@ -6,7 +6,7 @@
         id        = "com.vaadin.demo.parking"
         version   = "1.0.0">
 
-    <name>Vaadin Parking Demo</name>
+    <name>Parking</name>
 
     <description>
         Vaadin Parking Demo.
