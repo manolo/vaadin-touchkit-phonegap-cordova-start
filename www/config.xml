@@ -20,8 +20,9 @@
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
         permission on your app, which PhoneGap requires.
-    <preference name="permissions"                value="none"/>
     -->
+    <preference name="permissions"                value="none"/>
+    <preference name="http://api.phonegap.com/1.0/camera"/>
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="phonegap-version"           value="3.5.0" />          <!-- all: current version of PhoneGap -->
